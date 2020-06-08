@@ -107,11 +107,11 @@ def click_color_levelup(n):
 
 
 click_color_levelup(3)
-# click_color_levelup(3)
-# click_color_levelup(3)
-# click_color_levelup(3)
-# click_color_levelup(3)
-# click_color_levelup(3)
+click_color_levelup(3)
+click_color_levelup(3)
+click_color_levelup(3)
+click_color_levelup(3)
+click_color_levelup(3)
 # click_color_levelup(3)#10
 # click_color_levelup(4)
 # click_color_levelup(4)
